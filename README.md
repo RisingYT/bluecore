@@ -5,7 +5,7 @@ Most of these are preinstalled by default. Some are not and can be optionally in
 
 NOTE: Packages may not always be up-to-date because it's being managed by one person. 
 
-Well... If you want to add the repo on your current Linux system (only supports any distro that uses 'pacman' as a default package manager.)
+Well... If you want to add the repo on your current Linux system (only supports any distro that uses 'pacman' as a default package manager.), then add this line at the end of /etc/pacman.conf.
 
 ```
 [bluewave-custrepo]
