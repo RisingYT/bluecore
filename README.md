@@ -1,7 +1,5 @@
 # bluecore
-A repository that has the packages for Blue Wave. If they aren't present anywhere else or if they are modified.
-
-Most of these are preinstalled by default. Some are not and can be optionally installed when wanted.
+A repository that has the packages for Blue Wave. If they aren't present anywhere else except the AUR or if they are modified.
 
 NOTE: Packages may not always be up-to-date because it's being managed by one person. 
 
