@@ -8,5 +8,5 @@ Well... If you want to add the repo on your current Linux system (only supports 
 ```
 [bluecore]
 SigLevel = Optional TrustAll
-Server = https://risingyt.github.io/bluecore/$arch
+Server = https://truered09.github.io/bluecore/$arch
 ```
